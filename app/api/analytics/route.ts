@@ -10,7 +10,15 @@ export async function GET() {
 
         // Count by regulator
         const byRegulator: Record<Regulator, number> = {
-            CC: 0, ICO: 0, OFSI: 0, HSE: 0, HMRC: 0, FR: 0
+            CC: 0,
+            ICO: 0,
+            OFSI: 0,
+            HSE: 0,
+            HMRC: 0,
+            FR: 0,
+            OSCR: 0,
+            CCNI: 0,
+            ASA: 0
         };
 
         // Count by domain
