@@ -1,0 +1,37 @@
+[
+  {
+    "url": "https://www.gov.uk/guidance/protect-your-charity-from-fraud",
+    "title": "Protect your charity from fraud",
+    "summary": "Practical steps for charity trustees to protect your charity from different types of fraud, including financial crime and cybercrime.",
+    "regulator": "CC",
+    "last_updated": "2023-07-18"
+  },
+  {
+    "url": "https://www.gov.uk/government/publications/fraud-and-cybercrime-prevention-for-charities/tackling-charity-fraud-prevention-is-better-than-cure",
+    "title": "Tackling charity fraud: prevention is better than cure",
+    "summary": "Guidance from the Charity Commission on fraud awareness, prevention, and the steps trustees should take to protect their charity.",
+    "regulator": "CC",
+    "last_updated": "2022-09-26"
+  },
+  {
+    "url": "https://www.gov.uk/government/publications/compliance-toolkit-protecting-charities-from-harm/chapter-3-fraud-and-financial-crime",
+    "title": "Compliance toolkit: protecting charities from financial crime",
+    "summary": "How trustees can protect their charities from financial crime such as fraud, theft, and money laundering.",
+    "regulator": "CC",
+    "last_updated": "2023-01-05"
+  },
+  {
+    "url": "https://www.gov.uk/government/publications/charities-fraud-and-financial-crime",
+    "title": "Charity fraud: how to spot it and reduce the risks",
+    "summary": "Charity Commission guide to common types of charity fraud and the practical steps trustees can take to prevent it.",
+    "regulator": "CC",
+    "last_updated": "2022-11-13"
+  },
+  {
+    "url": "https://www.gov.uk/government/publications/compliance-toolkit-chapter-2-due-diligence-monitoring-and-verification-of-end-use-of-charitable-funds",
+    "title": "Preventing terrorist financing: due diligence for charities",
+    "summary": "How charities operating in high-risk areas can protect themselves from terrorist financing and money laundering risks.",
+    "regulator": "CC",
+    "last_updated": "2022-05-19"
+  }
+]

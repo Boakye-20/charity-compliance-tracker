@@ -1,0 +1,37 @@
+[
+  {
+    "url": "https://ico.org.uk/for-organisations/charity/",
+    "title": "Data protection for charities and small voluntary organisations",
+    "summary": "ICO guidance on how charities should comply with data protection law including GDPR, marketing rules, and handling personal data.",
+    "regulator": "ICO",
+    "last_updated": "2023-09-22"
+  },
+  {
+    "url": "https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/guidance-for-charity-and-voluntary-organisations/",
+    "title": "GDPR compliance for charities and voluntary organisations",
+    "summary": "Information Commissioner's Office guidance on handling personal data, fundraising, and marketing in compliance with UK GDPR.",
+    "regulator": "ICO",
+    "last_updated": "2023-06-10"
+  },
+  {
+    "url": "https://ico.org.uk/for-organisations/charity/charities-faqs/",
+    "title": "Charity FAQs on data protection",
+    "summary": "Answers to common questions about how data protection applies to charitable activities.",
+    "regulator": "ICO",
+    "last_updated": "2022-11-18"
+  },
+  {
+    "url": "https://www.gov.uk/government/publications/data-protection-and-privacy-guidance-for-the-charity-sector",
+    "title": "Data protection and privacy guidance for the charity sector",
+    "summary": "Guidance on collecting, storing and using personal data in accordance with data protection legislation, including when sharing information with other organisations.",
+    "regulator": "ICO",
+    "last_updated": "2023-02-14"
+  },
+  {
+    "url": "https://ico.org.uk/for-organisations/charity/data-protection-self-assessment-for-charities/",
+    "title": "Data protection self-assessment for charities",
+    "summary": "Self-assessment toolkit to help charities evaluate their compliance with data protection law and identify areas for improvement.",
+    "regulator": "ICO",
+    "last_updated": "2022-08-20"
+  }
+]

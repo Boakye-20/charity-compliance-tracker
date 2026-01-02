@@ -1,0 +1,37 @@
+[
+  {
+    "url": "https://www.gov.uk/government/publications/strategy-for-dealing-with-safeguarding-issues-in-charities",
+    "title": "Strategy for dealing with safeguarding issues in charities",
+    "summary": "How the Charity Commission approaches safeguarding concerns and works with other agencies to address them.",
+    "regulator": "CC",
+    "last_updated": "2018-12-06"
+  },
+  {
+    "url": "https://www.gov.uk/guidance/safeguarding-duties-for-charity-trustees",
+    "title": "Safeguarding duties for charity trustees",
+    "summary": "How trustees should protect people who come into contact with their charity through its work from abuse or mistreatment of any kind.",
+    "regulator": "CC",
+    "last_updated": "2022-10-14"
+  },
+  {
+    "url": "https://www.gov.uk/government/publications/safeguarding-children-and-protecting-professionals-in-early-years-settings-online-safety-considerations",
+    "title": "Safeguarding children in charities and voluntary organizations",
+    "summary": "Guidance for people working in charities and voluntary organisations with children, including avoiding risks and handling incidents.",
+    "regulator": "CC",
+    "last_updated": "2019-02-04"
+  },
+  {
+    "url": "https://www.ncvo.org.uk/help-and-guidance/safeguarding/",
+    "title": "Safeguarding essentials for voluntary organizations",
+    "summary": "NCVO guidance on safeguarding for charities with step-by-step advice and free templates.",
+    "regulator": "CC",
+    "last_updated": "2023-07-01"
+  },
+  {
+    "url": "https://learning.nspcc.org.uk/safeguarding-child-protection/for-voluntary-community-groups",
+    "title": "NSPCC Safeguarding for voluntary and community organizations",
+    "summary": "Resources to help voluntary, community and faith organizations keep children safe, including guidance on writing policies and procedures.",
+    "regulator": "CC",
+    "last_updated": "2023-10-15"
+  }
+]

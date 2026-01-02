@@ -1,0 +1,495 @@
+{
+  "summary": {
+    "total_records": 79,
+    "case_records": 34,
+    "guidance_records": 45,
+    "last_updated": "2026-01-01T22:39:45.002943"
+  },
+  "time_series": {
+    "by_month_domain": [
+      {
+        "month": "2024-01",
+        "domain": "governance",
+        "count": 1
+      },
+      {
+        "month": "2024-03",
+        "domain": "governance",
+        "count": 1
+      },
+      {
+        "month": "2024-04",
+        "domain": "governance",
+        "count": 4
+      },
+      {
+        "month": "2024-05",
+        "domain": "governance",
+        "count": 2
+      },
+      {
+        "month": "2024-06",
+        "domain": "governance",
+        "count": 1
+      },
+      {
+        "month": "2024-07",
+        "domain": "governance",
+        "count": 3
+      },
+      {
+        "month": "2024-08",
+        "domain": "governance",
+        "count": 1
+      },
+      {
+        "month": "2024-09",
+        "domain": "governance",
+        "count": 3
+      },
+      {
+        "month": "2024-10",
+        "domain": "governance",
+        "count": 3
+      },
+      {
+        "month": "2024-11",
+        "domain": "governance",
+        "count": 2
+      },
+      {
+        "month": "2024-12",
+        "domain": "governance",
+        "count": 2
+      },
+      {
+        "month": "2025-01",
+        "domain": "governance",
+        "count": 1
+      },
+      {
+        "month": "2025-02",
+        "domain": "governance",
+        "count": 1
+      },
+      {
+        "month": "2025-04",
+        "domain": "governance",
+        "count": 1
+      },
+      {
+        "month": "2025-07",
+        "domain": "governance",
+        "count": 1
+      },
+      {
+        "month": "2025-08",
+        "domain": "governance",
+        "count": 2
+      },
+      {
+        "month": "2025-10",
+        "domain": "governance",
+        "count": 1
+      }
+    ],
+    "by_month_regulator": [
+      {
+        "month": "2024-01",
+        "regulator": "CC",
+        "count": 1
+      },
+      {
+        "month": "2024-03",
+        "regulator": "CC",
+        "count": 1
+      },
+      {
+        "month": "2024-04",
+        "regulator": "CC",
+        "count": 4
+      },
+      {
+        "month": "2024-05",
+        "regulator": "CC",
+        "count": 2
+      },
+      {
+        "month": "2024-06",
+        "regulator": "CC",
+        "count": 1
+      },
+      {
+        "month": "2024-07",
+        "regulator": "CC",
+        "count": 3
+      },
+      {
+        "month": "2024-08",
+        "regulator": "CC",
+        "count": 1
+      },
+      {
+        "month": "2024-09",
+        "regulator": "CC",
+        "count": 3
+      },
+      {
+        "month": "2024-10",
+        "regulator": "CC",
+        "count": 3
+      },
+      {
+        "month": "2024-11",
+        "regulator": "CC",
+        "count": 2
+      },
+      {
+        "month": "2024-12",
+        "regulator": "CC",
+        "count": 2
+      },
+      {
+        "month": "2025-01",
+        "regulator": "CC",
+        "count": 1
+      },
+      {
+        "month": "2025-02",
+        "regulator": "CC",
+        "count": 1
+      },
+      {
+        "month": "2025-04",
+        "regulator": "CC",
+        "count": 1
+      },
+      {
+        "month": "2025-07",
+        "regulator": "CC",
+        "count": 1
+      },
+      {
+        "month": "2025-08",
+        "regulator": "CC",
+        "count": 2
+      },
+      {
+        "month": "2025-10",
+        "regulator": "CC",
+        "count": 1
+      }
+    ]
+  },
+  "breakdowns": {
+    "by_regulator": [
+      {
+        "regulator": "CC",
+        "count": 70
+      },
+      {
+        "regulator": "ICO",
+        "count": 3
+      },
+      {
+        "regulator": "FR",
+        "count": 2
+      },
+      {
+        "regulator": "OSCR",
+        "count": 1
+      },
+      {
+        "regulator": "CCNI",
+        "count": 1
+      },
+      {
+        "regulator": "ASA",
+        "count": 1
+      },
+      {
+        "regulator": "HMRC",
+        "count": 1
+      }
+    ],
+    "by_domain": [
+      {
+        "domain": "governance",
+        "count": 50
+      },
+      {
+        "domain": "financial_reporting",
+        "count": 10
+      },
+      {
+        "domain": "risk_management",
+        "count": 5
+      },
+      {
+        "domain": "sanctions",
+        "count": 5
+      },
+      {
+        "domain": "safeguarding",
+        "count": 3
+      },
+      {
+        "domain": "gdpr",
+        "count": 3
+      },
+      {
+        "domain": "anti_fraud",
+        "count": 2
+      },
+      {
+        "domain": "health_safety",
+        "count": 1
+      }
+    ],
+    "by_document_type": [
+      {
+        "type": "guidance",
+        "count": 45
+      },
+      {
+        "type": "case",
+        "count": 34
+      }
+    ],
+    "by_income_band": [
+      {
+        "band": "£100k-£500k",
+        "count": 9
+      },
+      {
+        "band": "£10k-£100k",
+        "count": 6
+      },
+      {
+        "band": "Under £10k",
+        "count": 4
+      },
+      {
+        "band": "£1m-£5m",
+        "count": 3
+      },
+      {
+        "band": "£500k-£1m",
+        "count": 3
+      },
+      {
+        "band": "Over £5m",
+        "count": 2
+      }
+    ],
+    "by_status": [],
+    "by_region": [
+      {
+        "region": "Throughout England And Wales",
+        "count": 6
+      },
+      {
+        "region": "Throughout London",
+        "count": 3
+      },
+      {
+        "region": "Birmingham City",
+        "count": 2
+      },
+      {
+        "region": "Northern Ireland",
+        "count": 2
+      },
+      {
+        "region": "Newham",
+        "count": 1
+      },
+      {
+        "region": "East Sussex",
+        "count": 1
+      },
+      {
+        "region": "Ireland",
+        "count": 1
+      },
+      {
+        "region": "Belgium",
+        "count": 1
+      },
+      {
+        "region": "Afghanistan",
+        "count": 1
+      },
+      {
+        "region": "Ghana",
+        "count": 1
+      }
+    ]
+  },
+  "keywords": {
+    "2024": [
+      {
+        "keyword": "foundation",
+        "count": 12
+      },
+      {
+        "keyword": "centre",
+        "count": 8
+      },
+      {
+        "keyword": "formerly",
+        "count": 7
+      },
+      {
+        "keyword": "registered",
+        "count": 7
+      },
+      {
+        "keyword": "trust",
+        "count": 4
+      },
+      {
+        "keyword": "limited",
+        "count": 4
+      },
+      {
+        "keyword": "mosque",
+        "count": 4
+      },
+      {
+        "keyword": "quba",
+        "count": 2
+      },
+      {
+        "keyword": "muffin",
+        "count": 2
+      },
+      {
+        "keyword": "rescue",
+        "count": 2
+      },
+      {
+        "keyword": "captain",
+        "count": 2
+      },
+      {
+        "keyword": "knightland",
+        "count": 2
+      },
+      {
+        "keyword": "mermaids",
+        "count": 2
+      },
+      {
+        "keyword": "keren",
+        "count": 2
+      },
+      {
+        "keyword": "shmuel",
+        "count": 2
+      },
+      {
+        "keyword": "uloom",
+        "count": 2
+      },
+      {
+        "keyword": "islamia",
+        "count": 2
+      },
+      {
+        "keyword": "rizwia",
+        "count": 2
+      },
+      {
+        "keyword": "bralawai",
+        "count": 2
+      },
+      {
+        "keyword": "fashion",
+        "count": 2
+      }
+    ],
+    "2025": [
+      {
+        "keyword": "education",
+        "count": 8
+      },
+      {
+        "keyword": "formerly",
+        "count": 4
+      },
+      {
+        "keyword": "registered",
+        "count": 4
+      },
+      {
+        "keyword": "community",
+        "count": 4
+      },
+      {
+        "keyword": "mountain",
+        "count": 2
+      },
+      {
+        "keyword": "fire",
+        "count": 2
+      },
+      {
+        "keyword": "miracles",
+        "count": 2
+      },
+      {
+        "keyword": "ministries",
+        "count": 2
+      },
+      {
+        "keyword": "international",
+        "count": 2
+      },
+      {
+        "keyword": "obac",
+        "count": 2
+      },
+      {
+        "keyword": "organisation",
+        "count": 2
+      },
+      {
+        "keyword": "blind",
+        "count": 2
+      },
+      {
+        "keyword": "africans",
+        "count": 2
+      },
+      {
+        "keyword": "caribbeans",
+        "count": 2
+      },
+      {
+        "keyword": "four",
+        "count": 2
+      },
+      {
+        "keyword": "paws",
+        "count": 2
+      },
+      {
+        "keyword": "animal",
+        "count": 2
+      },
+      {
+        "keyword": "rescue",
+        "count": 2
+      },
+      {
+        "keyword": "south",
+        "count": 2
+      },
+      {
+        "keyword": "wales",
+        "count": 2
+      }
+    ]
+  }
+}
