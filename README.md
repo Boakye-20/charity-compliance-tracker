@@ -84,7 +84,6 @@ python-scripts/
   run_charity_update.py  Pipeline orchestrator
   adapters/              One adapter per source
 ```
-
 ## Record shape
 
 Each row carries: `id`, `title`, `summary`, `source_url`, `published_date`,
