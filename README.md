@@ -1,7 +1,7 @@
 # Charity Compliance Tracker
 
-A dashboard of UK charity regulation — guidance, enforcement cases and sanctions
-— pulled together from eleven regulator sources into one searchable place.
+A dashboard of UK charity regulation (guidance, enforcement cases and sanctions)
+pulled together from eleven regulator sources into one searchable place.
 
 A Python pipeline fetches from each regulator, normalises everything to a common
 shape, and writes a single CSV. The Next.js app reads that CSV.
